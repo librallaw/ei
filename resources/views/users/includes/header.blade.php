@@ -35,7 +35,7 @@
                 <div class="nav-left">
                     <!-- logo -->
                     <strong class="logo">
-                        <a href="{{url('/')}}"><img src="{{asset('inc/images/media/index12/logo.png')}}" alt="logo"></a>
+                        <a href="{{url('/')}}"><img src="{{asset('inc/images/logo.png')}}" alt="logo"></a>
                     </strong><!-- logo -->
                 </div>
 

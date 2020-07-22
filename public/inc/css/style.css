@@ -8839,7 +8839,7 @@ select.input-sm {
   }
 }
 .header-opt-12 {
-  background-color: #394264;
+  background-color: #0a6f32;
 }
 .header-opt-12 .header-top {
   background-color: transparent;
@@ -8895,7 +8895,7 @@ select.input-sm {
 .header-opt-12 .header-top .nav-left > li > a,
 .header-opt-12 .header-top .nav-right > li > a {
   line-height: 42px;
-  color: #9099b7;
+  color: #ffffff;
   text-transform: capitalize;
   font-size: 14px;
   display: block;
@@ -9021,7 +9021,7 @@ select.input-sm {
   width: 250px;
 }
 .header-opt-12 .block-nav-categori .block-title {
-  background-color: #ff3366;
+  background-color: #0a6e32;
   cursor: pointer;
   line-height: 45px;
   height: 45px;
@@ -9162,7 +9162,7 @@ select.input-sm {
     padding-right: 0;
   }
   .header-opt-12 .block-nav-menu .ui-menu > li > a {
-    color: #9099b7;
+    color: #ffffff;
     text-transform: uppercase;
     font-size: 14px;
     font-weight: bold;
@@ -9276,7 +9276,7 @@ select.input-sm {
   bottom: -37px;
 }
 .header-opt-12 .header-nav .box-header-nav {
-  background-color: #50597b;
+  background-color: #be3034;
   padding: 13px 20px;
 }
 .header-opt-12 .header-nav .block-search {
@@ -9491,7 +9491,7 @@ select.input-sm {
 .header-opt-12 .sticky-wrapper.is-sticky .mid-header {
   margin: 0;
   padding: 0px 0 10px;
-  background-color: #394264;
+  background-color: #0a6f32;
 }
 .header-opt-12 .sticky-wrapper.is-sticky .mid-header .block-search {
   width: calc(100% -  416px);

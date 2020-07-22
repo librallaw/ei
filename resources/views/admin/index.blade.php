@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from wrappixel.com/demos/admin-templates/pixeladmin/inverse/index.blade.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Oct 2018 14:57:27 GMT -->
     @include("admin.includes.header");
 
 

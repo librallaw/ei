@@ -74,8 +74,11 @@
                             @foreach($ad_banners as $ad_banner)
                             <div class="banner-slide">
                                 <a href="#" class="box-img"><img src="/images/{{$ad_banner->image}}" alt="img"></a>
+                                <a href="#" class="box-img"><img src="https://kuteshop.b-cdn.net/wp-content/uploads/2017/11/nike-logo.jpg" alt="img"></a>
+                                <a href="#" class="box-img"><img src="https://kuteshop.b-cdn.net/wp-content/uploads/2017/11/nike-logo.jpg" alt="img"></a>
                             </div>
                             @endforeach
+
                         </div><!--banner  -->
 
                     </div>
